@@ -75,7 +75,7 @@ export default function ContactPage() {
                   Call Us
                 </p>
                 <p className="text-lg font-bold text-slate-900">
-                  +91 98765 43210
+                  +91 94918 65695
                 </p>
               </div>
             </div>
@@ -88,7 +88,7 @@ export default function ContactPage() {
                   Email Us
                 </p>
                 <p className="text-lg font-bold text-slate-900">
-                  support@diagnostickart.com
+                  info@diagnostickart.com
                 </p>
               </div>
             </div>

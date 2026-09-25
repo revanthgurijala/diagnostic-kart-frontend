@@ -70,7 +70,7 @@ export default function TestsPage() {
               type="text"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="block w-full pl-12 pr-6 py-4 bg-slate-50 border border-slate-200 rounded-full text-base focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="block w-full pl-12 pr-6 py-4 bg-slate-50 border border-slate-200 rounded-full text-base text-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500"
               placeholder="Search for profiles..."
             />
           </div>

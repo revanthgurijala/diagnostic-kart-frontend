@@ -26,7 +26,7 @@ const marqueeItems = [
   { text: "Microbiome Test", icon: Microscope },
   { text: "Global Shipping", icon: Globe },
   { text: "ISO Certified", icon: Award },
-  { text: "NABH Accredited", icon: CheckCircle2 },
+  // { text: "NABH Accredited", icon: CheckCircle2 },
   { text: "NABL Accredited", icon: CheckCircle2 },
   { text: "Fast Delivery", icon: Zap },
   { text: "COD Available", icon: Banknote },
